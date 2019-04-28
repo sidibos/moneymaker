@@ -14,6 +14,6 @@ class SimpleTest extends TestCase
 {
     public function testShouldBesuccessfull()
     {
-        $this->assertTrue(true);
+        $this->assertTrue(false);
     }
 }
